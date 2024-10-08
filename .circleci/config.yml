@@ -1,0 +1,16 @@
+jobs:
+  build:
+    docker:
+      - image: 'node:16.14.0'
+    steps:
+      - checkout
+      - sonarcloud/scan
+orbs:
+#modified 1.1.0 to 2.0.0
+  sonarcloud: sonarsource/sonarcloud@2.0.0
+version: 2.1
+workflows:
+  main:
+    jobs:
+      - build:
+          context: sonarcloud
