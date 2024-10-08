@@ -104,7 +104,7 @@
         <img src="images/logo-black.svg" alt="Metropolitana">
 
         <!-- Titolo con animazione -->
-        <h1>Welcome aboard RouteX! Let's map out your adventure.</h1>
+        <h1>Welcome aboard RouteX! Let's map out your adventuree.</h1>
 
         <!-- Pulsante per l'interazione -->
         <a href="routeFinder" class="btn">Find Your Route</a>
