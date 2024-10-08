@@ -101,7 +101,7 @@
     <!-- Contenitore principale -->
     <div class="container">
         <!-- Immagine della metropolitana -->
-        <img src="images/logo-black.svg" alt="Metropolitana">
+        <img src="images/metro-rome.jpg" alt="Metropolitana">
 
         <!-- Titolo con animazione -->
         <h1>Welcome aboard RouteX! Let's map out your adventuree.</h1>
